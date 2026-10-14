@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Minha mãe é uma peça",
+        "votos": 5,
+        "media": 4.4,
+        "avaliacao": "Filme recomendado"
+    },
+    {
+        "nome": "Saneamento Básico",
+        "votos": 5,
+        "media": 3.2,
+        "avaliacao": "Filme razoavel"
+    },
+    {
+        "nome": "Se eu fosse você",
+        "votos": 3,
+        "media": 2,
+        "avaliacao": "Filme ruim"
+    }
+]
