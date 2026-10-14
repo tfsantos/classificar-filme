@@ -1,0 +1,24 @@
+{
+  "name": "classificar-filme",
+  "version": "1.0.0",
+  "description": "Repositório utilizado para a entrega da tarefa da aula extra de Lógica de Programação da Mentoria 2.0 - Turma 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfsantos/classificar-filme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tfsantos/classificar-filme/issues"
+  },
+  "homepage": "https://github.com/tfsantos/classificar-filme#readme",
+  "devDependencies": {
+    "mocha": "^12.0.3"
+  }
+}
